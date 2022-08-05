@@ -4,3 +4,6 @@ app.egg-info
 __pycache__
 *~
 build
+
+# Jet Brains IDEs
+.idea
